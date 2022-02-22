@@ -1,0 +1,43 @@
+[
+   {
+      "titulo": "Validator",
+      "subtitulo": "Middleware",
+      "fecha": "2022/2/18 - 19:00:20",
+      "autor": "Angel Arraiz",
+      "cuerpo": "Hcuerpokjshkjahkjs",
+      "enlaces": "https://express-validator.github.io/docs/running-imperatively.html",
+      "vistas": 0
+   },
+   
+   {
+      "titulo": "NodeValidator",
+      "subtitulo": " sanitizar campos",
+      "fecha": "2022/1/17 - 20:00:40",
+      "autor": "Diego Perez",
+      "cuerpo": "HSAKSJAHs",
+      "enlaces": "https://express-validator.github.io/docs/running-imperatively.html",
+      "vistas": 0
+   },
+   {
+      "titulo": "TOOLS-Validator",
+      "subtitulo": "Middleware para sanitizar campos",
+      "fecha": "2022/2/17 - 10:00:30",
+      "autor": "Ramon Hernandez",
+      "cuerpo": "HSAKSJAHefwefwewefhkjs",
+      "enlaces": "https://express-validator.github.io/docs/running-imperatively.html",
+      "vistas": 0
+   },
+    {
+      "titulo": "Express-Node",
+      "subtitulo": "Middleware para sanitizar campos",
+      "fecha": "2021/12/17 - 17:00:40",
+      "autor": "Angel Arraiz",
+      "cuerpo": "HSAKSahkjs",
+      "enlaces": "https://express-validator.github.io/docs/running-imperatively.html",
+      "vistas": 0
+   }
+   
+   
+   
+
+]
